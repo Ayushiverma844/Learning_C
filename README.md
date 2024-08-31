@@ -1,2 +1,2 @@
 # Learning_C
-Here I Learn &amp; Practice C Langage
+Here I Learn & Practice C Language
