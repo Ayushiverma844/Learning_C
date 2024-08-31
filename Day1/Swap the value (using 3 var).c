@@ -1,3 +1,5 @@
+//Wap to accept 2 integers from the user and swap value(interchange) them using 3 variables.
+
 #include<stdio.h>
 int main()
 {

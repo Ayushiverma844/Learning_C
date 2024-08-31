@@ -1,3 +1,5 @@
+//Wap to accept an integer from the user and find its positive or negative or 0.
+
 #include<stdio.h>
 int main()
 {

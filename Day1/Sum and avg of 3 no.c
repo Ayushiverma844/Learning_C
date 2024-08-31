@@ -1,3 +1,5 @@
+//Wap to accept 3 integers from the user and calculate its sum and average.
+
 #include<stdio.h>
 int main()
 {
