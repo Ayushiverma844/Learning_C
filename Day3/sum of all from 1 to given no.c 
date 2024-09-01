@@ -1,0 +1,16 @@
+//Wap to accept an input from the user and print sum of all no from 1 to that no.assume that user will input positive no only.
+
+#include <stdio.h>
+int main()
+{
+    int n,i=1,sum=0;
+    printf("enter a no:");
+    scanf("%d",&n);
+    while(i<=n)
+    {
+        sum+=i;
+        i++;
+    }
+printf("sum is %d",sum);
+    return 0;
+}
