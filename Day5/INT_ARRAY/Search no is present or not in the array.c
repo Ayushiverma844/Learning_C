@@ -1,4 +1,5 @@
-//Wap to accept 10 integers from the user and store them in an integer array, Now again ask the user to input no. & search whether this no. is present in array or no. if yes then print position otherwise print no. is not found.(Assume that array contain unique no only)
+//Wap to accept 10 integers from the user and store them in an integer array, Now again ask the user to input no. & search whether this no. is present in array or no.
+// if yes then print position otherwise print no. is not found.(Assume that array contain unique no only)
 
     #include<stdio.h>
  int main()
