@@ -4,6 +4,7 @@
 int main()
 {
     int i,j,max;
+    int x=0;
     int arr[3][4];
     for(i=0;i<3;i++)
        {
@@ -21,9 +22,12 @@ int main()
               if(arr[i][j]>max)
               {
                   max=arr[i][j];
+                  x = j+1;
               }
            }
-           printf("\n student%d ,higest marks=%d",i+1,max);
+           printf("\n student%d ,higest marks=%d in subject %d",i+1,max,x);
+        x = 0;
+        
        }
     
        return 0;
