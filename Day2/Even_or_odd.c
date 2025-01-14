@@ -3,11 +3,14 @@
 #include<stdio.h>
 int main()
 {
+    //accept an integer  
     int n;
     printf("Enter a no:");
     scanf("%d",&n);
+    //check wheather it is even 
     if(n%2==0)
     printf("Its an even no");
+    //or odd
     else
     printf("Its an odd no");
 return 0;
