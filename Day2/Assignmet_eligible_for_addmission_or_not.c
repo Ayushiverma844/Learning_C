@@ -5,6 +5,7 @@
 #include<stdio.h>
 int main()
 {
+    //accept marks of pcm
     int p,c,m;
     printf("Enter marks of  p,c,m;");
     scanf("%d %d %d",&p,&c,&m);
